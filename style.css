@@ -1,0 +1,17 @@
+body{
+  background-color: #D8E2DC;
+  font-size: 18px;  
+  }
+ h1,h2,p,li{
+   font-family: monospace;
+ }
+.item-1{
+  font-size: 1em
+}
+.item-2{
+  font-size: 1.5em
+} 
+
+.item-3{
+  font-size: 2em
+} 
